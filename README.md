@@ -30,7 +30,7 @@
 <tr>
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRxdnc5NnozemNteHhvNHl3dWJvMG5zNnQxeDFuMmQ2dGlwdGpzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Matrix hacker coding gif"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW83eTJtOHpvdHVjb2JsdTNzejFvMzJxZzh5d2Rrd2lzaXlkNXVkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Animated woman coder hacker gif"/>
 
 </td>
 <td width="55%" valign="top">
@@ -58,6 +58,16 @@
 </td>
 </tr>
 </table>
+
+<br/>
+
+> I'm a Data Scientist and ML Engineer from Pune, India, passionate about building intelligent systems that don't just compute — they *reason*. From designing explainable LLM pipelines for IEEE research, to shipping secure AI-powered platforms, I believe the best models are the ones people can actually trust. When I'm not training models, I'm probably dreaming up the next project that sits right at the intersection of data, design, and real-world impact. 🚀
+
+<!-- TROPHIES -->
+<div align="center">
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=wini-e&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies"/>
+</div>
 
 ---
 
@@ -200,15 +210,6 @@ Sustainability-focused data project leveraging ML and geospatial insights to und
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wini-e&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF&hide_border=true" width="95%" alt="Activity Graph"/>
-</div>
-
----
-
-<!-- TROPHIES -->
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wini-e&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
 </div>
 
 ---

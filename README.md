@@ -26,31 +26,38 @@
 <!-- ABOUT ME -->
 ## 🧠 About Me
 
-```python
-class Wini:
-    name       = "Wini"
-    role       = "Data Scientist & ML Engineer"
-    university = "Vishwakarma Institute of Technology, Pune"
-    tagline    = "Always Winning with Data 🏆"
+<table>
+<tr>
+<td width="45%" align="center">
 
-    skills = {
-        "languages"  : ["Python", "SQL", "JavaScript"],
-        "ml_dl"      : ["TensorFlow", "PyTorch", "Scikit-learn", "SHAP"],
-        "data"       : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly"],
-        "nlp_llm"    : ["Gemini API", "LangChain", "Transformers", "SBERT"],
-        "backend"    : ["FastAPI", "Node.js", "Express", "MongoDB"],
-        "frontend"   : ["React", "Next.js", "CSS"],
-        "tools"      : ["Git", "Docker", "Ngrok", "WakaTime"],
-    }
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHRxdnc5NnozemNteHhvNHl3dWJvMG5zNnQxeDFuMmQ2dGlwdGpzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Matrix hacker coding gif"/>
 
-    currently_learning = [
-        "Deep Learning & Neural Networks",
-        "NLP / LLMs & Prompt Engineering",
-        "MLOps & Model Deployment",
-    ]
+</td>
+<td width="55%" valign="top">
 
-    fun_fact = "I don't just analyze data — I make it confess 🕵️"
-```
+### Hey, I'm Wini 👾
+
+> *"I don't just read data — I make it talk."*
+
+🎓 &nbsp; **B.Tech IT** @ Vishwakarma Institute of Technology, Pune
+🧠 &nbsp; **Data Scientist & ML Engineer** — building AI that reasons, not just predicts
+🔬 &nbsp; **IEEE Researcher** — publishing on LLM-based resume screening systems
+🏆 &nbsp; **Always Winning with Data** — one model at a time
+
+<br/>
+
+🔭 &nbsp; Currently diving deep into **LLMs, Deep Learning & MLOps**
+🌱 &nbsp; Exploring **RAG pipelines, model deployment & NLP fine-tuning**
+⚡ &nbsp; Fun fact: My models don't just score — they **explain themselves**
+💬 &nbsp; Ask me about **ML systems, Python, or AI product ideas**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+
+</td>
+</tr>
+</table>
 
 ---
 
